@@ -51,7 +51,7 @@ a{color: black;
 a:visited{color: blue;
 }
 a:hover{color: brown;
-cursor: default;
+cursor: pointer;
 }
 a:active{color: brown;
 }
