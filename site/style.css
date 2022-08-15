@@ -10,7 +10,7 @@ h2{font-size: 30px;
 }
 .established{font-style: italic;
 }
-h2:hover{cursor: pointer;
+h2:hoverx{cursor: pointer;
     color: black;
 }
 h1,h2,p{text-align: center; 
